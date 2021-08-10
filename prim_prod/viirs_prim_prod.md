@@ -1,6 +1,6 @@
 # Derivation of primary productivity from VIIRS
 
-## Algorhithm of Behrenfeld and Falkowski (1997)
+## Algorithm of Behrenfeld and Falkowski (1997)
 
 PP = 0.66125 * PBop * par/(par + 4.1) * Zeu *  chl * Dirr
 
