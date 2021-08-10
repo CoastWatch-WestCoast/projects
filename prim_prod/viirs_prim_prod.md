@@ -1,4 +1,5 @@
 # Derivation of primary productivity from VIIRS
+Dale Robinson | NOAA CoastWatch | Version 1 | August 2021  
 
 ## Algorithm of Behrenfeld and Falkowski (1997)
 
